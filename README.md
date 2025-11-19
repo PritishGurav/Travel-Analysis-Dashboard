@@ -1,11 +1,11 @@
-<h1 align="center">🧭 Travel Analysis Dashboard</h1>
-<h3 align="center"><i>✈️ "Reimagining Mobility — One Dataset, Many Stories"</i></h3>
+<h1 align="center">🚗 Indian Transportation and Mobility Dashboard 🇮🇳</h1>
+<h3 align="center"><i>A data story about how India moves — from chaos to clarity.</i></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Level-Intermediate-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Type-Unguided%20Project-FF5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Travel%20%26%20Mobility%20Analytics-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Challenge-Codebasics%20Resume%20Challenge%20%2313-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Category-Data%20Analytics-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Unguided%20Project-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
@@ -13,80 +13,154 @@
 <h2>📖 Story Behind the Project</h2>
 
 <p>
-It all began while working on the <b>Indian Transportation and Mobility Analysis</b> project.  
-As I explored the dataset, I noticed fascinating patterns — subtle hints about how people prefer to travel, how regions differ in their movement styles, and how some journeys seem more intentional than others.  
+India moves fast — sometimes too fast. From honking traffic in Mumbai to peaceful rural bus routes in Karnataka, our transportation system tells a story of growth, struggle, and constant motion.  
+As a data enthusiast, I always wondered: <b>What does this movement look like in numbers?</b>  
 </p>
 
 <p>
-These discoveries sparked curiosity.  
-I asked myself — <i>“What if I look at this dataset from a fresh lens? Could it reveal a completely different journey?”</i>  
-</p>
-
-<p>
-That thought led to the creation of the <b>Travel Analysis Dashboard</b>.  
-Using the <b>same dataset</b>, I reimagined the narrative —  
-not just observing mobility, but interpreting stories behind trips, preferences, and regions.
+That curiosity sparked the beginning of this project.  
+When I came across the <b>Codebasics Resume Challenge #13</b>, I knew this was the perfect opportunity to convert that curiosity into a meaningful dashboard.  
+Without any guidance, just raw data and a blank Power BI canvas, I began my journey of uncovering how India really moves.
 </p>
 
 ---
 
-<h2>🎯 Objective</h2>
+<h2>🧭 Project Overview</h2>
 
 <p>
-Instead of simply reporting numbers, the goal became to uncover the <b>why</b> behind travel decisions.  
-This dashboard aims to understand:
+The <b>Indian Transportation and Mobility Dashboard</b> is not just a dashboard — it's a story of India’s roads, rails, and routes.  
+I wanted to create something that reflects how people travel, where the bottlenecks lie, and how mobility differs from city to village.
+</p>
+
+<p>
+Every chart, every metric, and every map in this dashboard is designed to show a clearer picture of India’s mobility landscape.
+</p>
+
+---
+
+<h2>🎯 The Goal</h2>
+
+<p>
+The mission was simple:  
+<b>Turn transportation data into insights that planners, analysts, and curious minds can rely on.</b>
 </p>
 
 <ul>
-  <li>How people move</li>
-  <li>Which regions behave similarly</li>
-  <li>What modes of transport are preferred</li>
+  <li>🚦 Understanding congestion across major cities</li>
+  <li>🚆 Comparing public vs private transport usage</li>
+  <li>📊 Observing accessibility gaps between regions</li>
+  <li>📍 Providing data-driven recommendations</li>
 </ul>
 
 <p>
-Through thoughtful visualizations, the dashboard transforms travel data into an intuitive experience.
+This project aimed to answer the question:  
+<b>How efficiently is India moving today — and how can it move better tomorrow?</b>
 </p>
 
 ---
 
-<h2>✨ What Makes This Dashboard Special</h2>
-
-<ul>
-  <li>🔍 <b>A New Perspective:</b> The same dataset, but viewed through the eyes of a traveler and thinker.</li>
-  <li>📊 <b>Story-Driven Visuals:</b> Maps, charts, and visual patterns come together to guide the viewer naturally.</li>
-  <li>👌 <b>Designed for Everyone:</b> Whether you're a beginner or a domain expert, the insights are easy to explore.</li>
-</ul>
-
----
-
-<h2>📚 The Learning Journey</h2>
+<h2>🚀 What I Built</h2>
 
 <p>
-With every visualization, I learned that a dataset is never one-dimensional.  
-There’s always more hidden beneath the surface, waiting to be interpreted differently.
+As the story unfolded through the data, I shaped it into a powerful dashboard featuring:
 </p>
 
 <ul>
-  <li>💡 The ability to repurpose a dataset for new insights</li>
-  <li>📈 Leveraging advanced Power BI visuals to reveal patterns</li>
-  <li>📝 Crafting narratives to make insights meaningful and memorable</li>
+  <li>📈 Interactive charts that change with user selections</li>
+  <li>🗺️ Geo-spatial maps highlighting state-wise trends</li>
+  <li>📊 Custom DAX measures to simplify complex insights</li>
+  <li>💡 KPI cards that instantly show performance indicators</li>
 </ul>
 
----
-
-<h2>✅ Closing Thoughts</h2>
-
 <p>
-The <b>Travel Analysis Dashboard</b> opened my eyes to how flexible and powerful data can be.  
-Even without changing the dataset, studying it from another angle brought out <b>new stories and interpretations</b>.  
-</p>
-
-<p>
-This project complements my previous work on <b>Indian Transportation & Mobility Analysis</b> —  
-together, they show how <b>curiosity, creativity, and analytics</b> can turn data into stories that matter.
+The goal was not just to display data, but to <b>make people feel the movement of India</b>.
 </p>
 
 ---
 
-<h2 align="center">✨ “One dataset. Infinite stories.  
-The narrative depends on the perspective.”</h2>
+<h2>🧰 Tools & Technologies That Powered the Story</h2>
+
+<table>
+  <tr><td>🖥️ <b>Power BI</b></td><td>Dashboard design & insight creation</td></tr>
+  <tr><td>🧮 <b>DAX</b></td><td>Custom measures for deeper analytics</td></tr>
+  <tr><td>🔄 <b>Power Query</b></td><td>Data cleaning & transformation</td></tr>
+  <tr><td>🎨 <b>Data Storytelling</b></td><td>Transforming raw numbers into meaning</td></tr>
+</table>
+
+---
+
+<h2>🌍 What the Dashboard Looks Like</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/your-dashboard-image-link" width="750px"/>
+  <br>
+  <i>✨ A visual journey through India's mobility system ✨</i>
+</p>
+
+---
+
+<h2>📘 What I Learned Through This Journey</h2>
+
+<ul>
+  <li>🧠 Cleaning messy datasets and modeling them efficiently</li>
+  <li>🎨 Designing dashboards with storytelling flow</li>
+  <li>📊 Creating relationships & hierarchies for smooth insights</li>
+  <li>📈 Understanding real-world transportation metrics</li>
+</ul>
+
+<p>
+This wasn't just a project — it became a learning experience that strengthened both my analytical and creative skills.
+</p>
+
+---
+
+<h2>🧩 The Impact</h2>
+
+<p>
+The final dashboard is more than a collection of visuals.  
+It gives decision-makers the power to:
+</p>
+
+<ul>
+  <li>🚆 Improve urban mobility planning</li>
+  <li>🏙️ Identify infrastructure gaps</li>
+  <li>🚗 Understand congestion patterns</li>
+  <li>♻️ Move towards greener, sustainable solutions</li>
+</ul>
+
+<p>
+Data, when told as a story, becomes a powerful driver for change — and this dashboard is a step in that direction.
+</p>
+
+---
+
+<h2>🏁 Final Thoughts</h2>
+
+<p>
+Creating this project taught me how data can narrate the rhythm of a nation.  
+From chaotic traffic to silent highways — everything leaves a footprint, and through analytics, we can trace it.
+</p>
+
+<p>
+This unguided project stands as a reflection of my ability to handle raw data, build structure, and turn it into an impactful visual story using Power BI.
+</p>
+
+---
+
+<h2>👨‍💻 Author</h2>
+
+<p align="center">
+  <b>Pritish Gurav</b><br>
+  Data Analyst | Power BI Developer | Python Enthusiast<br><br>
+
+  <a href="https://github.com/PritishGurav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gurav-pritish-3ab57b346/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🚀 Turning Data into Decisions | Visualizing Insights | Driving Impact</b>
+</p>
